@@ -1,3 +1,3 @@
-# us_vetluz01_vspj
+# Semestralni prace
 
 verzovaci software
